@@ -1,0 +1,39 @@
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+
+# Mac filesystem metadata
+.DS_Store
+.env
+# python venv
+env/*
+
+### JetBrains
+.idea/*
+
+# User-specific stuff
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/usage.statistics.xml
+**/.idea/dictionaries/
+**/.idea/shelf/
+**/.idea/csv-editor.xml
+**/.idea/vcs.xml
+**/.idea/prettier.xml
+**/.idea/misc.xml
+**/.idea/ruff.xml
+**/.idea/sonarlint.xml
+**/.idea/git_toolbox_prj.xml
+**/.idea/git_toolbox_blame.xml
+**/.idea/compiler.xml
+**/.idea/mypy.xml
+**/.idea/watcherTasks.xml
+**/.idea/jsLinters/
+**/.idea/codeStyles/
+**/.idea/copilot/
+**/.idea/inspectionProfiles/
